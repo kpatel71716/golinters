@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 
-	"github.com/edaniels/golinters/deferfor"
-	"github.com/edaniels/golinters/errresp"
-	"github.com/edaniels/golinters/mustcheck"
-	"github.com/edaniels/golinters/printf"
-	"github.com/edaniels/golinters/println"
+	"github.com/mongodb-forks/golinters/deferfor"
+	"github.com/mongodb-forks/golinters/errresp"
+	"github.com/mongodb-forks/golinters/mustcheck"
+	"github.com/mongodb-forks/golinters/printf"
+	"github.com/mongodb-forks/golinters/println"
 
 	"golang.org/x/tools/go/analysis/unitchecker"
 )
